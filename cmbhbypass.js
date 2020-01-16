@@ -20,7 +20,7 @@ const rl = readline.createInterface({
       // getting the cookie offset if the challenge is enabled
   }, function(error,response, body){
      var code = body;
-     var cooieValue = code.split('validate=').pop().split('";document.location')[0]; // For later
+     var cooieValue = code.split('validate=').pop().split('";document.location')[0]; // For future releases
      if (code.indexOf("layer7-validate") >= 0) {
      console.log("Cookie offset: " + code.split('validate=').pop().split('";document.location')[0])
      
