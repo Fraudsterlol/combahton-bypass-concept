@@ -1,0 +1,15 @@
+{
+  "name": "combypass",
+  "version": "1.0.0",
+  "description": "combahtom bypass in nodejs by fraudser :^)",
+  "main": "cmbhbypass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fraudster",
+  "license": "ISC",
+  "dependencies": {
+    "follow-redirects": "^1.9.0",
+    "inquirer": "^7.0.3"
+  }
+}
