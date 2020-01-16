@@ -12,7 +12,7 @@ const rl = readline.createInterface({
   //Building the request to the website
   request({
     method: "GET",
-    uri:  "https://wiki.combahton.net/ddos_protection", //URL to get the cookie for
+    uri:  "https://urlofacombahtonsite.tld", //URL to get the cookie for
     headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36'
       }
