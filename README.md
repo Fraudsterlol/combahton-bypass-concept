@@ -6,3 +6,5 @@ Nodejs application that detects if Combahtons Layer 7 filter is currently enable
 Please do not complain about the code since I made it in less than 10 minutes.
 
 I do not take responsability for anything that is done using this code / parts of it.
+
+To Combahton: Let me know if you need any help developing something that is harder to bypass. I will be more than happy to help :)
