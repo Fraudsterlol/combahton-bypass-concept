@@ -1,7 +1,7 @@
 # combahton-bypass-concept
 Combahton JS Bypass
 
-IMPORTANT: According to multiple people, they updated their challenge just yesterday and replaced it with the publicly avaiable test-cookie extension for nginx. I have coded a bypass for that in the past and will update this project as soon as I have free time :)
+IMPORTANT: According to multiple people, they updated their challenge just yesterday and replaced it with the publicly available test-cookie extension for nginx. I have coded a bypass for that in the past and will update this project as soon as I have free time :)
 
 Nodejs application that determines whether a site protected by Combahton has the Layer 7 filter enabled or not. If it is, the application will attempt to bypass the validation. This method could be abused to create a DDoS script that is capable of reaching the backend server of a site hidden / protected by Combahtons reverse proxy. Details about how the bypass works can be obtained by taking a look at the code.
 
